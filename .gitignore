@@ -34,3 +34,6 @@ x64
 
 # Windows executables.
 *.exe
+
+# Local targets:
+read_file_test
